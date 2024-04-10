@@ -162,3 +162,11 @@
     display: none;
   }
 }
+
+.logout-button:hover {
+  cursor: pointer; 
+}
+
+.login-button:hover {
+  cursor: pointer; 
+}
